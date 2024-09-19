@@ -40,6 +40,7 @@ result.to_csv(index=None)
 Feature Selection
 - Variance
 - Correlations (recursive)
+- principle component analysis
 
 Visualisation
 - Correlation matrix?
