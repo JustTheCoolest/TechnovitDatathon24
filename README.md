@@ -1,13 +1,5 @@
 # TechnovitDatathon24
 
-smote - class imbalance
-
-## Gameplan
-- Is the dataset simulation?
-- Time: Time of day, week, year, holidays
-- Origin IDs - Credit scores
-- Generating transaction IDs : Cash out and cash in
-
 ## Search Terms:
 - "Model selection cheat sheet"
 - "Neural network / Deep learning for neural networks" (?)
