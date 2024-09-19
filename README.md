@@ -2,6 +2,10 @@
 
 ## Search Terms:
 - "Model selection cheat sheet"
+- "Neural network / Deep learning for neural networks" (?)
+
+## Elaborate References:
+- https://machinelearningmastery.com/start-here/
 
 ## Pseudocode:
 
